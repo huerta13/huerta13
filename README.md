@@ -71,13 +71,19 @@ Explore my repositories:
 
 ## 📊 GitHub Statistics | Estadísticas
 
-<div align="center">
+<p align="center">
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=huerta13&show_icons=true&theme=tokyonight&hide_border=true"
+    height="180"
+    alt="GitHub Statistics"
+  />
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=huerta13&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=huerta13&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=huerta13&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    height="180"
+    alt="Top Languages"
+  />
+</p>
 
 ---
 
