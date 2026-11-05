@@ -88,12 +88,13 @@ Java y Spring Boot avanzado · C# y .NET · arquitectura de software y clean cod
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=huerta13&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huerta13&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img width="49%" src="https://raw.githubusercontent.com/huerta13/huerta13/main/profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub Stats" />
+  <img width="49%" src="https://raw.githubusercontent.com/huerta13/huerta13/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most Commit Language" />
 </p>
 
 <p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=huerta13&theme=tokyo-night&hide_border=true" alt="GitHub Contribution Activity" />
+  <img width="49%" src="https://raw.githubusercontent.com/huerta13/huerta13/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repos per Language" />
+  <img width="49%" src="https://raw.githubusercontent.com/huerta13/huerta13/main/profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive Time" />
 </p>
 
 ---
