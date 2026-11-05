@@ -30,27 +30,20 @@ Welcome to my GitHub profile! I'm a software developer interested in building re
 
 ## 🛠️ Tech Stack | Tecnologías
 
-### Languages | Lenguajes
+### Languages & Backend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,gradle&theme=dark" />
+</p>
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C%23](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+### Databases & Infrastructure
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,docker,linux,git,github&theme=dark" />
+</p>
 
-### Backend Development | Desarrollo Backend
-
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-
-### Databases | Bases de datos
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Tools & Infrastructure | Herramientas e infraestructura
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+### Development Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,idea,bash&theme=dark" />
+</p>
 
 ---
 
